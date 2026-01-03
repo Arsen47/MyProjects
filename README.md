@@ -3,7 +3,8 @@
 MiniShell is a simple command-line shell written in C.
 It supports basic shell commands and can run programs like a normal terminal.
 
-make        # To build/n
+make        # To build
+
 ./minishell # to run  
 
 Available commands inside MiniShell:
